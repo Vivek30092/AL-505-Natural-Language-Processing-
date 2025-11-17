@@ -1,0 +1,20 @@
+ML Pipeline
+
+    Libraries
+    load dataset
+    model design
+    model selection
+
+
+---
+
+Data acquisition --> data preprocessing --> model selection --> training --> testing --> deployment
+                        ^                                                       ^
+                        |-------------------------------------------------------|
+
+Assignment
+
+file type
+python code
+whats flags can be used(10) [arguments]
+examples
